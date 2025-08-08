@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.python_packages/
+
+# Azure Local Files
+Azurite*
+__azurite_*
+__blobstorage__/
+__queuestorage__/
+local.settings.json
+
+# Test files
+test.*
+blobsave
+azure_formatted.json
+
+# IDE
+.vscode/
+.DS_Store
