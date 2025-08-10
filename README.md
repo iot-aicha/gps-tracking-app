@@ -53,10 +53,10 @@
 
 | Component          | Technology Stack                    |
 |--------------------|-------------------------------------|
-| Backend Processing | Azure Functions (Python 3.8)        |
+| Backend Processing | Azure Functions (Python 3.11)       |
 | Data Storage       | Azure Blob Storage (GeoJSON format) |
 | Real-Time Stream   | Azure Event Hubs (1000+ msg/sec)    |
-| Frontend           | Vanilla JS + Azure Maps SDK         |
+| Frontend           | HTML + CSS + JS + Azure Maps SDK    |
 | Alerts             | SendGrid + Azure Logic Apps         |
 
 ## Data Flow
