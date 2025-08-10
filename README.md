@@ -1,6 +1,5 @@
 # 🛰️ Azure GPS Tracking & Geofencing System
 
-![System Architecture](docs/architecture.png)
 
 ## Core Functionalities
 
